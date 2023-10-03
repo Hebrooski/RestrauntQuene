@@ -19,6 +19,7 @@ public class Restaurant {
     private LocalTime closingTime;
     private int maxPartySize;
     private int avgWaitTime;
+    private int currentWait;
 
     //avg wait time will be calulated as 
     //avgWaitTime + 5*(party.size-4)
