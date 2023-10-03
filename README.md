@@ -1,0 +1,1 @@
+This is a personal project working with a mongoDB and spring-boot backend and a react frontend. The focus of the project is to learn more about how to implement these technologies together. The project will be building a restaurant table and queue management system. 
