@@ -1,4 +1,4 @@
-package com.graysonlyv.demo;
+package com.graysonlyv.demo.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.GetMapping;
